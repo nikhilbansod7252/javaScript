@@ -13,5 +13,7 @@
 // object
 
 console.log(typeof "Nikhil") // String
+
+//Interview questions
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
