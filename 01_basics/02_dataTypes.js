@@ -2,13 +2,16 @@
 
 //alert(3 + 3) // we are using nodejs, not browser
 
+//In js u can ignore ;
+
+//In js format to write datatypes is capital ie. Number
 // dataTypes
 // number => 2 to power 53
 // bigint
 // boolean => true/false
 // null => standalone value, empty
 // undefined => value not assigned
-// symbol => unique
+// symbol => finding uniqueness, mostly used in react
 // object
 
 console.log(typeof "Nikhil") // String
